@@ -2,7 +2,7 @@
 
 #### Test Automation Best Practices
 - **What is a key benefit of writing end to end tests?**
-  - Ensuring Application Functionality from the user’s perspective is working correctly
+  - Ensuring application functionality from the user’s perspective is working correctly
   
 - **What is it to isolate a system under test by replacing a real dependency such as APIs with a controlled replacement, allowing reliable and faster tests?**
   - Mocking
@@ -24,7 +24,7 @@
 
 #### Playwright Architecture
 - **What is it in playwright when it performs a range of actionability checks on elements before making actions to ensure the actions behave as expected?**
-  - Auto-Waiting Feature
+  - Auto-waiting feature
   
 - **Why does Playwright use browser context, and what problem do they solve?**
   - Create an isolated, concurrent browser session within a single browser instance, solving the problem of test interference
